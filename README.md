@@ -1,4 +1,4 @@
-# 🎓 AI Audio Teacher
+# 🎓 AI-Voice-Tutor
 
 An AI-powered voice assistant that acts as a virtual teacher. The application listens to a user's spoken question, converts it into text using Speech Recognition, sends it to the Mistral Large Language Model through LangChain, and speaks the generated answer back to the user.
 
@@ -47,8 +47,8 @@ AI-Audio-Teacher/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Akshaykompally/AI-Audio-Teacher.git
-cd AI-Audio-Teacher
+git clone https://github.com/Akshaykompally/AI-Voice-Tutor.git
+cd AI-Voice-Tutor
 ```
 
 ### 2. Create a virtual environment
